@@ -1,5 +1,7 @@
 # clash-smart
 
+> English version: [README.en-US.md](README.en-US.md)
+
 智能代理控制工具 - 自动检测网络状态、按需调用 Clash Verge Rev、大文件下载预警、智能切换防滥用。
 
 ## 灵感来源
